@@ -66,7 +66,6 @@ Validation artifacts from the repository:
 
 ![Validation confusion matrix](confusion_matrix.png)
 
-No hosted demo link is included.
 
 ## Author
 
